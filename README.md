@@ -1,3 +1,10 @@
+[Created following this tutorial by DesignCourse](https://www.youtube.com/watch?v=_TLhUCjY9iA)
+
+
+![Screenshot 2021-06-07 at 15 32 55](https://user-images.githubusercontent.com/68162650/121025621-a4011e00-c7a5-11eb-9d51-d6fbf2d79255.png)
+
+==> Angular and Typescript
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
